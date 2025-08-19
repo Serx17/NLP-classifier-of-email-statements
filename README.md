@@ -13,4 +13,5 @@ streamlit run app.py
 
 ## Демо
 
-Приложение развернуто на Streamlit Community Cloud: [Ссылка появится здесь после деплоя]
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://serx17-nlp-classifier-of-email-statements-app-2teihd.streamlit.app/)
